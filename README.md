@@ -19,6 +19,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcnew2101&show_icons=true&locale=en" alt="marcnew2101 stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcnew2101&show_icons=true&locale=en&layout=compact" alt="marcnew2101 top langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcnew2101&show_icons=true&locale=en&theme=dark" alt="marcnew2101 stats" />
+  <img src="https://streak-stats.demolab.com?user=marcnew2101&theme=dark" alt="marcnew2101 streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcnew2101&show_icons=true&locale=en&layout=compact&theme=dark" alt="marcnew2101 top langs" />
 </p>
