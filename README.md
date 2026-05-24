@@ -11,15 +11,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></a>
 </p>
 
-<h3 align="center">Currently working on</h3>
-
 <p align="center">
-  <a href="https://github.com/marcnew2101/roku-boilerplate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcnew2101&repo=roku-boilerplate" alt="roku-boilerplate" /></a>
-  <a href="https://github.com/marcnew2101/PSRokuCreate"><img src="https://github-readme-stats.vercel.app/api/pin/?username=marcnew2101&repo=PSRokuCreate" alt="PSRokuCreate" /></a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=marcnew2101&show_icons=true&locale=en&theme=dark" alt="marcnew2101 stats" />
   <img src="https://streak-stats.demolab.com?user=marcnew2101&theme=dark" alt="marcnew2101 streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=marcnew2101&show_icons=true&locale=en&layout=compact&theme=dark" alt="marcnew2101 top langs" />
 </p>
